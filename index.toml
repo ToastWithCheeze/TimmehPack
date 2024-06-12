@@ -613,38 +613,6 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "mods/.connector/mcdw-9.0.4$mixinextras-fabric-0.2.0-beta.8_mapped_srg_1.20.1.jar"
-hash = "a95e146667857c0fac0625a0ca30ee2203d8a3af013cba63315ecf3e468c5643"
-
-[[files]]
-file = "mods/.connector/mcdw-9.0.4$mixinextras-fabric-0.2.0-beta.8_mapped_srg_1.20.1.jar.input"
-hash = "ab3e89cf7e44c7b04915112b8ef7fce18b7068465431c37d621f0f9ce2ea88df"
-
-[[files]]
-file = "mods/.connector/mcdw-9.0.4_mapped_srg_1.20.1.jar"
-hash = "465dcce0b6d41feb118244681d4e92af133b197abe865217897622daa74ed5b9"
-
-[[files]]
-file = "mods/.connector/mcdw-9.0.4_mapped_srg_1.20.1.jar.input"
-hash = "080ec291a88e7f2f78830fccd51c7bcfa86df7a2cea4fe9b8dfb6c9d59af5631"
-
-[[files]]
-file = "mods/.connector/temp/bettercombat-fabric-1.8.5+1.20.1$mixinextras-fabric-0.2.0.jar"
-hash = "771e2a435545f33d47f571977d103720b134d827047b7c04048ee2f360ff7f38"
-
-[[files]]
-file = "mods/.connector/temp/bettercombat-fabric-1.8.5+1.20.1$mixinextras-fabric-0.2.0.jar.input"
-hash = "f66bdb638bee086f858fad9a6cccb68c0253090578e293e6136bd3f26174bf17"
-
-[[files]]
-file = "mods/.connector/temp/mcdw-9.0.4$mixinextras-fabric-0.2.0-beta.8.jar"
-hash = "369fef77525b7a92463dcb653766f5bb4472ec5c610148d79f6fcd7478f55be9"
-
-[[files]]
-file = "mods/.connector/temp/mcdw-9.0.4$mixinextras-fabric-0.2.0-beta.8.jar.input"
-hash = "ab3e89cf7e44c7b04915112b8ef7fce18b7068465431c37d621f0f9ce2ea88df"
-
-[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "155d5ba84074d9fdb955f2ac75e4036c2820038df56ba6ebab41ce9afd50c7c0"
 metafile = true
