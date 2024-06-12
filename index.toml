@@ -1053,11 +1053,6 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "3ec2ca23e150731b25c0999c5afc766fb3b8eeff7ff0d4a2180f3c106ef8cfa8"
-metafile = true
-
-[[files]]
 file = "mods/justhammers.pw.toml"
 hash = "2e5721d05635bdad26f4c4b8f7695356f0e6c7f073a3cc01742f2c2357c98385"
 metafile = true
